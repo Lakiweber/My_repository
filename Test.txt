@@ -1,2 +1,3 @@
 Server new create
 Изменения на компе
+git push origin master
